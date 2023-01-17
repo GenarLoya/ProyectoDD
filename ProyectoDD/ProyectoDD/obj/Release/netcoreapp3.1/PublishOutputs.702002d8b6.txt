@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\Clases 2do semestre\P. orientada a objetos\C#\ProyectoDD.exe
+C:\Users\ACER\Desktop\Clases 2do semestre\P. orientada a objetos\C#\ProyectoDD.dll
+C:\Users\ACER\Desktop\Clases 2do semestre\P. orientada a objetos\C#\ProyectoDD.deps.json
+C:\Users\ACER\Desktop\Clases 2do semestre\P. orientada a objetos\C#\ProyectoDD.runtimeconfig.json
+C:\Users\ACER\Desktop\Clases 2do semestre\P. orientada a objetos\C#\ProyectoDD.pdb
